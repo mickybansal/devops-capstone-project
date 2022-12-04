@@ -10,7 +10,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    container: python3.9-nodejs16-slim
+    container: python3.9-slim
  
 
     services:
